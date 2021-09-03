@@ -1,0 +1,47 @@
+main .lista_oferty {
+    width: 700px;
+    height:fit-content;
+    margin: auto;
+}
+main .oferta {
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    transition: 0.8s;
+}
+main .oferta:hover {
+    height: 200px;
+    transition: 0.8s;
+}
+main .oferta ul {
+    opacity: 0;
+    transition: 0.2s;
+}
+main .oferta:hover ul{
+    padding-top: 15px;
+    opacity: 1;
+    transition: 1s;
+}
+main div p {
+    font-size: 20px;
+    padding: 2em;
+    padding-bottom: 0px;
+    color: black;
+}
+main div a {
+    text-decoration: none;
+}
+main div p:hover {
+    color:rgb(77, 77, 77);
+}
+main .oferta .fakeimage {
+    width: 350px;
+    height: 100px;
+    background-color:gray;
+    float: right;
+    transition: 0.8s;
+}
+main .oferta:hover .fakeimage {
+    height: 200px;
+    transition: 0.8s;
+}

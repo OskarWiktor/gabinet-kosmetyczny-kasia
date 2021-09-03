@@ -1,0 +1,48 @@
+
+    <section class="col">
+    <a href="https://www.google.com/search?client=firefox-b-d&q=gabinet%20kosmetyczny%20kurdwan%C3%B3w&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&tbm=lcl&sxsrf=AOaemvL9b7lhilMPPCFsAwaYBIghWixzDQ:1630413167181&rflfq=1&num=10&rldimm=9900394555623094184&lqi=Ch5nYWJpbmV0IGtvc21ldHljem55IGt1cmR3YW7Ds3daICIeZ2FiaW5ldCBrb3NtZXR5Y3pueSBrdXJkd2Fuw7N3kgEQc2tpbl9jYXJlX2NsaW5pY5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOcGRYTlFTVzEzUlJBQqoBGxABKhciE2dhYmluZXQga29zbWV0eWN6bnkoCw&ved=2ahUKEwiSs6qtotvyAhVH1hoKHQsgDEkQvS4wBXoECA4QQQ&rlst=f#lrd=0x4716439d63f5a183:0x89654464d02037a8,1,,,&rlfi=hd:;si:9900394555623094184,l,Ch5nYWJpbmV0IGtvc21ldHljem55IGt1cmR3YW7Ds3daICIeZ2FiaW5ldCBrb3NtZXR5Y3pueSBrdXJkd2Fuw7N3kgEQc2tpbl9jYXJlX2NsaW5pY5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOcGRYTlFTVzEzUlJBQqoBGxABKhciE2dhYmluZXQga29zbWV0eWN6bnkoCw;mv:[[50.0198122,19.984106399999998],[50.0055473,19.9442637]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" target="_blank">
+        <div class="opinia">
+            <h3>Maria PG</h3>
+            <p>Jestem bardzo zadowolona zarówno z manicure jak i regulacji brwi. Profesjonalna usługa, miła atmosfera, zniżki dla stałych klientów. Polecam.</p>
+            <div class="gwiazdki"><div class="gwiazdka jeden"></div><div class="gwiazdka"></div><div class="gwiazdka"></div><div class="gwiazdka"></div><div class="gwiazdka"></div></div>
+        </div>
+    </a>
+    </section>
+    <section class="col">
+    <a href="https://www.google.com/search?client=firefox-b-d&q=gabinet%20kosmetyczny%20kurdwan%C3%B3w&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&tbm=lcl&sxsrf=AOaemvL9b7lhilMPPCFsAwaYBIghWixzDQ:1630413167181&rflfq=1&num=10&rldimm=9900394555623094184&lqi=Ch5nYWJpbmV0IGtvc21ldHljem55IGt1cmR3YW7Ds3daICIeZ2FiaW5ldCBrb3NtZXR5Y3pueSBrdXJkd2Fuw7N3kgEQc2tpbl9jYXJlX2NsaW5pY5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOcGRYTlFTVzEzUlJBQqoBGxABKhciE2dhYmluZXQga29zbWV0eWN6bnkoCw&ved=2ahUKEwiSs6qtotvyAhVH1hoKHQsgDEkQvS4wBXoECA4QQQ&rlst=f#lrd=0x4716439d63f5a183:0x89654464d02037a8,1,,,&rlfi=hd:;si:9900394555623094184,l,Ch5nYWJpbmV0IGtvc21ldHljem55IGt1cmR3YW7Ds3daICIeZ2FiaW5ldCBrb3NtZXR5Y3pueSBrdXJkd2Fuw7N3kgEQc2tpbl9jYXJlX2NsaW5pY5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOcGRYTlFTVzEzUlJBQqoBGxABKhciE2dhYmluZXQga29zbWV0eWN6bnkoCw;mv:[[50.0198122,19.984106399999998],[50.0055473,19.9442637]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" target="_blank">
+        <div class="opinia">
+            <h3>Kasia Górka</h3>
+            <p>Doskonała opieka i bardzo wysoka jakość usług. Zdecydowanie polecam!</p>
+            <div class="gwiazdki"><div class="gwiazdka jeden"></div><div class="gwiazdka"></div><div class="gwiazdka"></div><div class="gwiazdka"></div><div class="gwiazdka"></div></div>
+        </div>
+    </a>
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+ <section class="col">
+<a href="https://www.google.com/search?client=firefox-b-d&q=gabinet%20kosmetyczny%20kurdwan%C3%B3w&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&tbm=lcl&sxsrf=AOaemvL9b7lhilMPPCFsAwaYBIghWixzDQ:1630413167181&rflfq=1&num=10&rldimm=9900394555623094184&lqi=Ch5nYWJpbmV0IGtvc21ldHljem55IGt1cmR3YW7Ds3daICIeZ2FiaW5ldCBrb3NtZXR5Y3pueSBrdXJkd2Fuw7N3kgEQc2tpbl9jYXJlX2NsaW5pY5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOcGRYTlFTVzEzUlJBQqoBGxABKhciE2dhYmluZXQga29zbWV0eWN6bnkoCw&ved=2ahUKEwiSs6qtotvyAhVH1hoKHQsgDEkQvS4wBXoECA4QQQ&rlst=f#lrd=0x4716439d63f5a183:0x89654464d02037a8,1,,,&rlfi=hd:;si:9900394555623094184,l,Ch5nYWJpbmV0IGtvc21ldHljem55IGt1cmR3YW7Ds3daICIeZ2FiaW5ldCBrb3NtZXR5Y3pueSBrdXJkd2Fuw7N3kgEQc2tpbl9jYXJlX2NsaW5pY5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOcGRYTlFTVzEzUlJBQqoBGxABKhciE2dhYmluZXQga29zbWV0eWN6bnkoCw;mv:[[50.0198122,19.984106399999998],[50.0055473,19.9442637]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" target="_blank">
+        <div class="opinia">
+            <h3>Karolina Jaranowska</h3>
+            <p>Miła atmosfera Pani Kasia bardzo miła sympatyczna kobieta umie doradzić i bardzo ale to bardzo dokładnie wykonuje zabieg polecam gorąco  .Jeszcze raz dziękuję wrócę napewno</p>
+            <div class="gwiazdki"><div class="gwiazdka jeden"></div><div class="gwiazdka"></div><div class="gwiazdka"></div><div class="gwiazdka"></div><div class="gwiazdka"></div></div>
+        </div>
+    </a>
+    </section>
+    <section class="col">
+    <a href="https://www.google.com/search?client=firefox-b-d&q=gabinet%20kosmetyczny%20kurdwan%C3%B3w&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&tbm=lcl&sxsrf=AOaemvL9b7lhilMPPCFsAwaYBIghWixzDQ:1630413167181&rflfq=1&num=10&rldimm=9900394555623094184&lqi=Ch5nYWJpbmV0IGtvc21ldHljem55IGt1cmR3YW7Ds3daICIeZ2FiaW5ldCBrb3NtZXR5Y3pueSBrdXJkd2Fuw7N3kgEQc2tpbl9jYXJlX2NsaW5pY5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOcGRYTlFTVzEzUlJBQqoBGxABKhciE2dhYmluZXQga29zbWV0eWN6bnkoCw&ved=2ahUKEwiSs6qtotvyAhVH1hoKHQsgDEkQvS4wBXoECA4QQQ&rlst=f#lrd=0x4716439d63f5a183:0x89654464d02037a8,1,,,&rlfi=hd:;si:9900394555623094184,l,Ch5nYWJpbmV0IGtvc21ldHljem55IGt1cmR3YW7Ds3daICIeZ2FiaW5ldCBrb3NtZXR5Y3pueSBrdXJkd2Fuw7N3kgEQc2tpbl9jYXJlX2NsaW5pY5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOcGRYTlFTVzEzUlJBQqoBGxABKhciE2dhYmluZXQga29zbWV0eWN6bnkoCw;mv:[[50.0198122,19.984106399999998],[50.0055473,19.9442637]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2" target="_blank">
+        <div class="opinia">
+            <h3>Magdalena Polak</h3>
+            <p>Polecam serdecznie, zabieg na twarz zrobiony bardzo profesjonalnie, żadnych problemów z cerą nie miałam. Napewno skorzystam ponownie.</p>
+            <div class="gwiazdki"><div class="gwiazdka jeden"></div><div class="gwiazdka"></div><div class="gwiazdka"></div><div class="gwiazdka"></div><div class="gwiazdka"></div></div>
+        </div>
+    </a>
+    </section>

@@ -1,0 +1,23 @@
+
+h2 {
+    color: rgb(161, 112, 151);
+    margin-top: 45px;
+    font-weight: 800;
+}
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main ul li {
+    list-style-type: circle;
+    line-height: 1.7em;
+    font-size: 18px;
+    border-bottom: 1px solid rgb(134, 117, 125);
+}
+main ul li:nth-child(2n) {
+    color: rgb(100, 100, 100);
+}
+main ul li  {
+    color: rgb(82, 82, 82);
+}

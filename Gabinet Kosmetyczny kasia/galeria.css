@@ -1,0 +1,26 @@
+main {
+    width: 100%;
+}
+.fakeimage {
+    width: 350px;
+    height: 280px;
+    border-radius: 10px;
+    background-color: rgb(199, 199, 199);
+    float: left;
+    margin-left: 15px;
+    margin-top: 15px;
+    opacity: 0.6;
+    transition: 0.8s;
+}
+.fakeimage:hover {
+    width:700px;
+    height: 560px;
+    transition: 0.7s;
+    opacity: 1;
+}
+.fakeimages {
+    display: flex;
+    justify-content: center;
+    height:fit-content;
+    margin: auto;
+}

@@ -1,0 +1,114 @@
+.vid {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.vid .fakevid {
+    width: 1280px;
+    height: 720px;
+    background-color: rgb(189, 189, 189);
+    border-radius: 15px;
+    margin-top: 35px;
+}
+.animation {
+    width: 100%;
+    height: 300px;
+    margin-top: 55px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    z-index: -1000!important;
+}
+.animationbox {
+    width: 1200px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+h2 {
+    width: 100%;
+    height: 20px;
+    font-size: 40px;
+    font-weight: 500;
+    color: rgb(53, 53, 53);
+    text-align: center;
+    text-shadow: 2px 2px 2px rgb(158, 148, 158);
+}
+.opinia{
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+    position: relative;
+    margin-top: 25px;
+    margin-left: 80px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    transition: 0.7s;
+}
+.opinia:hover {
+    opacity: 0.5;
+    transition: 0.3s;
+}
+main .animation section .opinia p {
+    padding-left: 15px;
+    padding-right: 10px;
+}
+main .animation section .opinia h3 {
+    padding-top: 10px;
+    text-align: center;
+} 
+main section a {
+    text-decoration: none;
+    color: black;
+}
+.gwiazdka {
+    width: 8px;
+    height: 8px;
+    background-color: rgb(245, 147, 207);
+    border-radius: 100%;
+    border: 1px solid rgb(173, 173, 173);
+    float: left;
+    margin-left: 8px;
+}
+.jeden {
+    margin-left: 0px;
+}
+.gwiazdki {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+article {
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    overflow: hidden;
+}
+.fakeimage {
+    width: 600px;
+    height: 800px;
+    background-color: rgb(189, 189, 189);
+}
+article .o_nas {
+    width: 600px;
+    height: 800px;
+    margin-left: 50px;
+    
+}
+article .o_nas h1 {
+    font-weight: 400;
+    font-size: 35px;
+    text-align: center;
+    text-shadow: 2px 2px 2px rgb(158, 148, 158);
+    color: rgb(53, 53, 53);
+}
+article .o_nas p {
+    max-width: 100%;
+    flex-wrap: wrap;
+    line-height: 1.7em;
+    letter-spacing: 0.05em;
+    text-indent: 50px;
+}
