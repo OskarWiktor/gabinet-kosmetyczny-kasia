@@ -1,1 +1,1 @@
-My firt ever made website
+My first ever made website
